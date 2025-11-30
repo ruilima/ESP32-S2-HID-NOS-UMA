@@ -326,17 +326,29 @@ Tools → Upload Speed → 921600
 =======================================
 
 [ ] Comprar ESP32-S2
+
 [ ] Instalar Arduino IDE
+
 [ ] Adicionar board ESP32 (URL: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json)
+
 [ ] Instalar bibliotecas (PubSubClient, ArduinoJson)
+
 [ ] Copiar código Arduino
+
 [ ] Editar WiFi_SSID e MQTT_SERVER
+
 [ ] Upload para ESP32
+
 [ ] Testar Serial Monitor (115200 baud)
+
 [ ] Desligar do PC
+
 [ ] Ligar à porta USB da UMA
+
 [ ] Verificar botões no Home Assistant
+
 [ ] Adicionar dashboard
+
 [ ] Testar controlo!
 
 =======================================
