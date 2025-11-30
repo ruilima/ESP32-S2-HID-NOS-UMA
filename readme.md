@@ -318,7 +318,9 @@ Instalar via Tools → Manage Libraries:
 =======================================
 
 Tools → Board → ESP32S2 Dev Module
+
 Tools → USB CDC On Boot → Enabled
+
 Tools → Upload Speed → 921600
 
 =======================================
