@@ -1,8 +1,8 @@
-# 🎮 UMA NOS CONTROLLER - PACOTE COMPLETO
+# 🎮 UMA NOS CONTROLLER
 # Controlo da Box UMA via Home Assistant
 
 =======================================
-📦 CONTEÚDO DESTE PACOTE
+📦 CONTEÚDO
 =======================================
 
 Este ficheiro contém TUDO o que precisas para instalar o projeto:
